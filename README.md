@@ -2,7 +2,7 @@
 
 ```shell
 git clone https://github.com/xjxujing/test-script-error.git
-npm i
+npm i express
 node app.js
 ```
 
