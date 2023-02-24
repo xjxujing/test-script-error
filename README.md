@@ -7,4 +7,5 @@ npm i express
 node app.js
 ```
 
+Then open index.html in browser, click button
 If you do not want see "Script error", please unlocked the comments in index.html
