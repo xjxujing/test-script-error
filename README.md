@@ -7,4 +7,4 @@ npm i express
 node app.js
 ```
 
-If you do not want see "Script error", please unlocked the comments in app.js
+If you do not want see "Script error", please unlocked the comments in index.html
